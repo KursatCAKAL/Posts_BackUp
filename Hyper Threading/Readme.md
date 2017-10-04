@@ -1,5 +1,5 @@
 
-<h4>Hyper-Threading Nedir?</h4><br><br>  
+<h3>Hyper-Threading Nedir?</h3><br><br>  
 	Hyper-Threading işlemciyi daha etkili bir şekilde kullanarak her bir çekirdek için daha fazla iş parçacığının daha performanslı olarak yürütülmesini sağlayan Intel firması tarafından üretilmiş bir teknolojidir.  HT teknolojisi, bu teknolojiyi destekleyen işlemci, işletim sistemine ve donanımsal niteliklere sahip bilgisayar sistemlerini gerektirir. <br>
 <br><br>
 <h4>Hyper-Threading Çalışma Prensibi Nedir?</h4><br><br>
