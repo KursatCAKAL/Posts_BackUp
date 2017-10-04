@@ -17,7 +17,7 @@ Hyper-Threading teknolojisinde ise bu durum multitasking’den tamamen farklı o
 <h3>Hyper-Threading Sistemi ile Örnekler</h3><br><br><br>
 <h4>Server uygulamalarında performans?</h4><br><br>
 Hyper-Threading ile sanal sunucu üzerinde çalışan uygulamalar için de performans artışı sağlanabilir. Örneğin Amazon gibi büyük bir e-ticaret sitesinden kat kat daha az veri ve işlem karmaşası içeren basit bir blog sitesinin yanıt süresi bu büyük e-ticaret sitesine göre çok daha fazla oluyor. Bunun HT teknolojisi dışında birden fazla web teknolojisi özelliği ile alakası olabilir. Fakat sonuç olarak bir web uygulamasının barındırıldığı server ve sunucunun kendine ait donanımsal nitelikleri mevcuttur. Böylelikle internet uygulamalarında yanıt süresi performansı arttırılabilir.<br>
-<h4>Görüntü-Rendering uygulamarında performans?>/h4><br><br>
+<h4>Görüntü-Rendering uygulamarında performans?</h4><br><br>
 	Dijital ortamdaki görüntü ve videoların düzenlenmesi ile ilgili uygulamalarda render ve diğer düzenleme işlemleri için çok fazla iş parçacığı olduğu için işlemci için oldukça ağır bir yüktür. Bu tip uygulamalarda da yine Hyper-Threading teknolojisi oldukça büyük bir performans kazancı sağlar.<br><br>
 
 <h4>Oyun teknolojilerinde performans?</h4> <br>
