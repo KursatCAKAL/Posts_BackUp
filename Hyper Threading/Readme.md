@@ -10,7 +10,7 @@ HT teknolojisi ile desteklenen bir işlemci, iki farklı iş parçasını eş za
 <h3>Hyper-Threading Ne Değildir?</h3><br><br>
 	Hyper-Threading teknolojisi ile ilgili bir çok yerde aynı anda birden fazla işi yapabilmemize olanak sağlar şeklinde ifadeler yer almaktadır. HT teknolojisi multitasking olarak bilinen aynı anda birden fazla görev, uygulama ve bilgisayar programı çalıştırabilmesini sağlayan teknoloji ile karıştırılmamalıdır.<br><br>
 
-<img src="https://raw.githubusercontent.com/KursatCAKAL/Posts_BackUp/master/Hyper%20Threading/HyperThreading_2.png"><br>
+<img src="https://raw.githubusercontent.com/KursatCAKAL/Posts_BackUp/master/Hyper%20Threading/HyperThreading_2.jpg"><br>
 Multitasking teknolojisinin desteklendiği bir işlemcide arka planda işlemci birden fazla işi aynı anda yapmamasına rağmen kullanıcının algılayamayacağı kadar küçük zaman dilimleri içerisinde birden fazla işlem birbiri arasında anahtarlamalar gerçekleştirilerek kullanıcıya sanki bütün işlemler aynı anda çalışıyormuş gibi hizmet sunulur. Fakat aslında işlemci aynı anda birden fazla işlem yapamamaktadır. 
 <br><br>
 Hyper-Threading teknolojisinde ise bu durum multitasking’den tamamen farklı olarak birden fazla komut dizini işlemcinin sahip olduğu core sayısına göre aynı anda işletilebilmektedir. HT’in multitasking’den farkı işlemcinin iki komut dizisini gerçekten eş zamanlı olarak işleyebiliyor ve sonuç üretebiliyor olmasıdır.<br><br>
