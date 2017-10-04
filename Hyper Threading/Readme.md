@@ -1,8 +1,8 @@
 
-<h5>Hyper-Threading Nedir?</h5><br><br>  
+<h4>Hyper-Threading Nedir?</h4><br><br>  
 	Hyper-Threading işlemciyi daha etkili bir şekilde kullanarak her bir çekirdek için daha fazla iş parçacığının daha performanslı olarak yürütülmesini sağlayan Intel firması tarafından üretilmiş bir teknolojidir.  HT teknolojisi, bu teknolojiyi destekleyen işlemci, işletim sistemine ve donanımsal niteliklere sahip bilgisayar sistemlerini gerektirir. <br>
 <br><br>
-<h5>Hyper-Threading Çalışma Prensibi Nedir?</h5><br><br>
+<h4>Hyper-Threading Çalışma Prensibi Nedir?</h4><br><br>
 	Intel HT teknolojisi işlemcideki core sayısını mantıksal olarak 2 katına çıkmasını sağlar. Yani tek çekirdekli bir işlemci HT teknolojisi ile mantıksal olarak 2 çekirdekli bir işlemci gibi çalışmasını sağlar. Bu teknoloji ile nasıl bir çekirdekli işlemci iki çekirdekli gibi çalışıyorsa, iki çekirdekli işlemci dört, dört çekirdekli işlemci de sekiz çekirdekli gibi çalışmaktadır. Fakat dikkat edilmesi gereken husus tek çekirdeğe sahip ve HT teknolojisi ile desteklenen bir işlemcinin ayrı ayrı 2 çekirdeği olan bir işlemci performansına ulaşamayacağıdır. Yani tek çekirdeği olan ve HT teknolojisi ile desteklenmiş bir işlemci iki çekirdeği olan ve HT teknolojisi ile desteklenmemiş bir işlemciye göre daha az performans sunar.<br><br>
 
 <img src="https://raw.githubusercontent.com/KursatCAKAL/Posts_BackUp/master/Hyper%20Threading/HyperThreading_1.png"><br>
