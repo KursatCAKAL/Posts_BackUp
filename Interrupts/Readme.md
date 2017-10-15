@@ -32,7 +32,7 @@ Bir işletim sistemi görevden göreve geçtiğinde bir kesme olur. İşletim si
 	Klavye ve fare araçlarıyla sebep olduğumuz işlemlerin bir çoğu, yazıcı ile yaptığımız işlemler ve oyun konsolu ile bilgisayarda oyun oynamamız gibi işlemleri bu kesme türüne örnek olarak verebiliriz. Fakat external yani harici kesme türlerini sadece kullanıcıların çevre birimlerini kullanarak sebep olduğu işlemler ile sınırlayamayız. Programlanmış bir çevre birimi içerdiği program algoritmasına göre bilgisayarın işlemcisinden bir işlem isteyebilir bu durumda sistemin daha önceden bu ana değin süre gelen yaptığı işlemlere uygulanan işlem de kesme olarak nitelendirilebilir.</p> <br>
 <h5>3-) Software Interrupt Nedir ?</h5><br>
 	Yazılımsal olayları içeren kesme türüdür. Bu kesme türüne komut kümesi talimatları ya da CPU üzerindeki beklenenin dışında bir durum sebep olabilir. Yazılım kesmeleri yine bir yazılım tarafından bu yazılımın işlemcide meydana getirdiği etki ile gerçekleştirilir.Yazılım kesmesi, bir donanım kesilmesinden farklı olarak, yazılım tarafından çağrılır. Bir yazılım kesmesi yalnızca çekirdek ile iletişim kurar ve dolaylı olarak merkezi işlem birimini kesintiye uğratır.<br>
-<h4 align=center">Farklı Mimarilerde Interrupt Performansları</h4><br>
+<h4 align="center">Farklı Mimarilerde Interrupt Performansları</h4><br>
 	Mimarilerin interrupt performansları arasındaki farkın değerlendirilmesi için 3 farklı mimari üzerinden bu kıyaslamayı yapacağım. Öncelikle böyle bir kıyaslama yapabilmek için kısaca mimarilerimizi tanımamız ve interrupt yakalama tiplerine değinmemiz gerekecek. <br>
 <br> 
 CISC<br>
