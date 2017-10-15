@@ -15,7 +15,7 @@ Interrupt en genel anlamıyla işlemcimizde anlık olarak işlenmekte olan olay�
 o	Birçok işlemi aynı anda gerçekleştirebilmek.<br>
 o	İşlem bekletmekten kaçınmak.<br>
 o	Senkronizasyon gerektiren uygulama ve sistemlerin tasarlamak.<br>
-Bu kısım için kaynak 3 yardımıyla öğrenilmiş ve çıkarım yapılmıştır.<br><br>
+<br>
 </p>
 <h4 align="center">Interrupt Çeşitleri Nelerdir ?</h4><br><p>
 	Gömülü sistemler,elektrik-elektronik ve mikroişlemci başta olmak üzere farklı alanlara göre interrupt çeşitleri değişken başlıklar altında çeşitlendirilmektedir. Kaynaklarımızdan 1. Kaynağa göre interrupt 3 çeşit olarak ayrılmaktadır. Kaynaklarımızdan 2’nciye göre ise interrupt 2 çeşit olarak ayrılmaktadır. Araştırma sonucunda anlaşılan şudur ki aslında hepsi için doğru olduğunu söylemek mümkün. Her alan kendisiyle yakından ilgili kısımları başlıklandırmıştır. Interruptlar gömülü donanımlar, yazılımlar ve harici donanımlar olmak üzere işleyen bir sürecin nereden gelen etkiyle kesmeye uğradığına göre ayrılırlar. Üç farklı başlıkta bunları inceleyeceğiz. <br><br>
