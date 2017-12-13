@@ -1,3 +1,4 @@
+<pre>
 GİRİŞ
 Çok işlemcili mimarileri anlatacağım bu yazı da öncelikle çok işlemcili bir mimarilerin nasıl çalıştığını anlamak adına bu mimarilerde çoklu işlemin nasıl yapıldığı ve bilgisayarda çok işlemcili çalışma prensibi nedir kısaca bu konuya değineceğim. Ardından çok işlemci yapısına sahip bilgisayar mimarilerinin çeşitlerini ve sınıflandırmalarını yapacağım. Bu sınıflandırmayı yaparken ödev başlığında istendiği üzere önbellek, process management ve multi core başlıkları ekseninde değerlendirmelerimi yapacağım.
 Çok İşlemcili Mimariler
@@ -50,3 +51,4 @@ KAYNAKLAR
 [6]http://www.eng.auburn.edu/~agrawvd/COURSE/E6200_06/STUDENT_TALKS/Multiprocessor_YChen.ppt
 [7] https://www.slideshare.net/arpanbaishya/multiprocessor-architecture
 [8] http://www.pearsonitcertification.com/articles/article.aspx?p=426771&seqNum=2
+</pre>
