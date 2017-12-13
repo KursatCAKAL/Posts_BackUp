@@ -12,12 +12,12 @@ Yukarıdaki tabloda 3 GB ‘lık bir database üzerinde yapılan bir deneyde mul
 <br>
 
 <img src="https://raw.githubusercontent.com/KursatCAKAL/Posts_BackUp/master/%C3%87ok%20%C4%B0%C5%9Flemcili%20Mimariler%20(Multiprocessor%20Architecture)/2-3-mix.png">
-<p>
-<h3>Çok İşlemcili Mimarilerin Sınıflandırılması</h3><br> 
+
+<h3>Çok İşlemcili Mimarilerin Sınıflandırılması</h3><br>  <p>
 Şemamızda görüldüğü üzere mikro işlemciler farklı başlıklarda komut ve veri yönetimlerine göre ayrılmaktadırlar. Biz çok işlemcili mimari yapıya sahip olan ve temelde iki başlıkta sınıflandırılmış olan MIMD başlığı altıdaki Tightly Coupled ve Loosely Coupled başlıklarını inceleyeceğiz.</p>
           <img src="https://raw.githubusercontent.com/KursatCAKAL/Posts_BackUp/master/%C3%87ok%20%C4%B0%C5%9Flemcili%20Mimariler%20(Multiprocessor%20Architecture)/3.png"><br>
-          <p>
-<h4>1-)Tightly Coupled Multiprocessor</h4><br>
+
+<h4>1-)Tightly Coupled Multiprocessor</h4><br> <p>
 TCM işlemci mimarilerindeki sistem aynı bus seviyesinde bağlı çoklu CPU elemanları içermektedir. Bu CPU elemanları merkezi paylaşılan bellek elemanlarına erişebilir yada yerel ve lokal olmak üzere iki tip bellek hiyerarşilerine katılabilirler.TMP işlemci mimarisinin genel özellikleri şu şekildedir. <br>
 • Tek bir fiziksel adres uzayı vardır yani aynı bellek paylaşılır.<br>
 • İşlemciler, ortak bellekteki paylaşılan değişkenler üzerinden iletişim kurarlar.<br>
@@ -68,4 +68,6 @@ Yararları: <br>
 [6]http://www.eng.auburn.edu/~agrawvd/COURSE/E6200_06/STUDENT_TALKS/Multiprocessor_YChen.ppt <br>
 [7] https://www.slideshare.net/arpanbaishya/multiprocessor-architecture <br>
 [8] http://www.pearsonitcertification.com/articles/article.aspx?p=426771&seqNum=2 <br> </p>
+
+
 
