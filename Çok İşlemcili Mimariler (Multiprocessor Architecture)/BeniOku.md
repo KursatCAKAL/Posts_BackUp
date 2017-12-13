@@ -57,7 +57,7 @@ Yararları: <br>
 • Bir sistem her biri çok işlemcili olan onlarca, yüzlerce, hatta binlerce makine içerebilir ve sisteme küçük artışlarla, yeni elemanlar eklemek mümkündür bu sayede sistem daha ölçeklenebilir bir yapıda olur. <br>
 • Bir kümedeki her düğüm, bağımsız bir sistemdir bu nedenle, bir süreçteki arıza tüm sistemin kaybı anlamına gelmez. <br>
 • Ucuz, kolayca bulunabilen parçalar kullanarak, büyük hesaplama gücü yüksek bir sistem oluşturmak mümkündür.<br>
-<h3>SONUÇ</h3><br><br>
+<h3>SONUÇ</h3><br><p>
 Çok işlemcili mimarileri hakkındaki araştırmamda tek işlemcili mimarilerin (işlemci mimarileri şeması resim olarak paylaşılmıştır) ne gibi sorunlara yol açtığı bu sorunlara karşı hangi methodların geliştirildiği yeni geliştirilen methodlardaki özellikler, avantajlar ,dezavantajlar , söz konusu dezavantajların giderilmesi ve performans gibi alt başlıkların detaylıca inceleyerek öğrendim. Çok işlemcili ve tek işlemcili mimarilerde process management , multi core ve cache konularını içeren olay ve sonuçlar hakkında detaylı bilgi edindim. Bilgisayarlı sistemlerde processlerin birden fazla işlemci içerisinde işlenmesi esnasında adres alanının paylaşılması, bellek paylaşımı, komutların bufferlara dağılımı, erişilebilirliğin örnekleri , sistemdeki performans artışları , işlemci sayısı arttıkça ortak yolu kullanan işlemlerin çatışması , iş yükünün ölçeklendirilmesi gibi ne aşamalardan geçerek ne gibi tepkiler ile karşılaşıldığı konusunda araştırmam sayesinde detaylıca bilgi edindim.<br> </p>
 <h4>KAYNAKLAR</h4><br> <p>
 [1] https://en.0wikipedia.org/wiki/Multiprocessing <br>
@@ -68,6 +68,4 @@ Yararları: <br>
 [6]http://www.eng.auburn.edu/~agrawvd/COURSE/E6200_06/STUDENT_TALKS/Multiprocessor_YChen.ppt <br>
 [7] https://www.slideshare.net/arpanbaishya/multiprocessor-architecture <br>
 [8] http://www.pearsonitcertification.com/articles/article.aspx?p=426771&seqNum=2 <br> </p>
-
-
 
